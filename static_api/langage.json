@@ -1,0 +1,215 @@
+[
+	{
+		"name": "영어",
+		"data": [
+			{
+				"code": "LA001001",
+				"name": "TOEIC"
+			},
+			{
+				"code": "LA001002",
+				"name": "TOEIC (PBT)"
+			},
+			{
+				"code": "LA001003",
+				"name": "IELTS"
+			},
+			{
+				"code": "LA001004",
+				"name": "SLEP"
+			},
+			{
+				"code": "LA001005",
+				"name": "TOEFL(CBT)"
+			},
+			{
+				"code": "LA001006",
+				"name": "TOEIC (S&W)"
+			},
+			{
+				"code": "LA001007",
+				"name": "TEPS"
+			},
+			{
+				"code": "LA001008",
+				"name": "GRE"
+			},
+			{
+				"code": "LA001009",
+				"name": "TOEFL(iBT)"
+			},
+			{
+				"code": "LA001010",
+				"name": "OPIc"
+			},
+			{
+				"code": "LA001011",
+				"name": "G-TELP(GLT)"
+			},
+			{
+				"code": "LA001012",
+				"name": "G-TELP(GST)"
+			},
+			{
+				"code": "LA001013",
+				"name": "GMAT"
+			},
+			{
+				"code": "LA001014",
+				"name": "TOEIC (Speaking)"
+			}
+		],
+		"favorite": [
+			{
+				"code": "LA001001",
+				"name": "TOEIC"
+			},
+			{
+				"code": "LA001002",
+				"name": "TOEIC (PBT)"
+			}
+		]
+	},
+	{
+		"name": "일본어",
+		"data": [
+			{
+				"code": "LA002001",
+				"name": "JPT"
+			},
+			{
+				"code": "LA002002",
+				"name": "JLPT"
+			},
+			{
+				"code": "LA002003",
+				"name": "JLRT"
+			},
+			{
+				"code": "LA002004",
+				"name": "JTRA"
+			},
+			{
+				"code": "LA002005",
+				"name": "JTPA"
+			},
+			{
+				"code": "LA002006",
+				"name": "NPT"
+			},
+			{
+				"code": "LA002007",
+				"name": "신 JLPT"
+			},
+			{
+				"code": "LA002008",
+				"name": "SJPT"
+			},
+			{
+				"code": "LA002009",
+				"name": "JLT"
+			},
+			{
+				"code": "LA002010",
+				"name": "BJT"
+			}
+		],
+		"favorite": [
+			{
+				"code": "LA002003",
+				"name": "JLRT"
+			},
+			{
+				"code": "LA002004",
+				"name": "JTRA"
+			}
+		]
+	},
+	{
+		"name": "중국어",
+		"data": [
+			{
+				"code": "LA003001",
+				"name": "HSK"
+			},
+			{
+				"code": "LA003002",
+				"name": "신 HSK"
+			},
+			{
+				"code": "LA003003",
+				"name": "TSC"
+			},
+			{
+				"code": "LA003004",
+				"name": "BCT"
+			},
+			{
+				"code": "LA003005",
+				"name": "CPT"
+			}
+		],
+		"favorite": [
+			{
+				"code": "LA003005",
+				"name": "CPT"
+			}
+		]
+	},
+	{
+		"name": "독일어",
+		"data": [
+			{
+				"code": "LA004001",
+				"name": "GDS"
+			},
+			{
+				"code": "LA004002",
+				"name": "KDS"
+			},
+			{
+				"code": "LA004003",
+				"name": "ZDAF"
+			},
+			{
+				"code": "LA004004",
+				"name": "ZMP"
+			}
+		],
+		"favorite": []
+	},
+	{
+		"name": "프랑스어",
+		"data": [
+			{
+				"code": "LA005001",
+				"name": "DALF"
+			},
+			{
+				"code": "LA005002",
+				"name": "DELF"
+			}
+		],
+		"favorite": []
+	},
+	{
+		"name": "러시아어",
+		"data": [
+			{
+				"code": "LA006001",
+				"name": "TOREF"
+			}
+		],
+		"favorite": []
+	},
+	{
+		"name": "스페인어",
+		"data": [
+			{
+				"code": "LA007001",
+				"name": "DELE"
+			}
+		],
+		"favorite": []
+	}
+]
