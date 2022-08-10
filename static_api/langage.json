@@ -4,69 +4,101 @@
 		"data": [
 			{
 				"code": "LA001001",
-				"name": "TOEIC"
+				"name": "TOEIC",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001002",
-				"name": "TOEIC (PBT)"
+				"name": "TOEIC (PBT)",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001003",
-				"name": "IELTS"
+				"name": "IELTS",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001004",
-				"name": "SLEP"
+				"name": "SLEP",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001005",
-				"name": "TOEFL(CBT)"
+				"name": "TOEFL(CBT)",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001006",
-				"name": "TOEIC (S&W)"
+				"name": "TOEIC (S&W)",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001007",
-				"name": "TEPS"
+				"name": "TEPS",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001008",
-				"name": "GRE"
+				"name": "GRE",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001009",
-				"name": "TOEFL(iBT)"
+				"name": "TOEFL(iBT)",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001010",
-				"name": "OPIc"
+				"name": "OPIc",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001011",
-				"name": "G-TELP(GLT)"
+				"name": "G-TELP(GLT)",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001012",
-				"name": "G-TELP(GST)"
+				"name": "G-TELP(GST)",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001013",
-				"name": "GMAT"
+				"name": "GMAT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001014",
-				"name": "TOEIC (Speaking)"
+				"name": "TOEIC (Speaking)",
+				"required": false,
+				"rate": 0
 			}
 		],
 		"favorite": [
 			{
 				"code": "LA001001",
-				"name": "TOEIC"
+				"name": "TOEIC",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA001002",
-				"name": "TOEIC (PBT)"
+				"name": "TOEIC (PBT)",
+				"required": false,
+				"rate": 0
 			}
 		]
 	},
@@ -75,53 +107,77 @@
 		"data": [
 			{
 				"code": "LA002001",
-				"name": "JPT"
+				"name": "JPT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002002",
-				"name": "JLPT"
+				"name": "JLPT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002003",
-				"name": "JLRT"
+				"name": "JLRT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002004",
-				"name": "JTRA"
+				"name": "JTRA",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002005",
-				"name": "JTPA"
+				"name": "JTPA",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002006",
-				"name": "NPT"
+				"name": "NPT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002007",
-				"name": "신 JLPT"
+				"name": "신 JLPT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002008",
-				"name": "SJPT"
+				"name": "SJPT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002009",
-				"name": "JLT"
+				"name": "JLT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002010",
-				"name": "BJT"
+				"name": "BJT",
+				"required": false,
+				"rate": 0
 			}
 		],
 		"favorite": [
 			{
 				"code": "LA002003",
-				"name": "JLRT"
+				"name": "JLRT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA002004",
-				"name": "JTRA"
+				"name": "JTRA",
+				"required": false,
+				"rate": 0
 			}
 		]
 	},
@@ -130,29 +186,41 @@
 		"data": [
 			{
 				"code": "LA003001",
-				"name": "HSK"
+				"name": "HSK",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA003002",
-				"name": "신 HSK"
+				"name": "신 HSK",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA003003",
-				"name": "TSC"
+				"name": "TSC",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA003004",
-				"name": "BCT"
+				"name": "BCT",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA003005",
-				"name": "CPT"
+				"name": "CPT",
+				"required": false,
+				"rate": 0
 			}
 		],
 		"favorite": [
 			{
 				"code": "LA003005",
-				"name": "CPT"
+				"name": "CPT",
+				"required": false,
+				"rate": 0
 			}
 		]
 	},
@@ -161,19 +229,27 @@
 		"data": [
 			{
 				"code": "LA004001",
-				"name": "GDS"
+				"name": "GDS",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA004002",
-				"name": "KDS"
+				"name": "KDS",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA004003",
-				"name": "ZDAF"
+				"name": "ZDAF",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA004004",
-				"name": "ZMP"
+				"name": "ZMP",
+				"required": false,
+				"rate": 0
 			}
 		],
 		"favorite": []
@@ -183,11 +259,15 @@
 		"data": [
 			{
 				"code": "LA005001",
-				"name": "DALF"
+				"name": "DALF",
+				"required": false,
+				"rate": 0
 			},
 			{
 				"code": "LA005002",
-				"name": "DELF"
+				"name": "DELF",
+				"required": false,
+				"rate": 0
 			}
 		],
 		"favorite": []
@@ -197,7 +277,9 @@
 		"data": [
 			{
 				"code": "LA006001",
-				"name": "TOREF"
+				"name": "TOREF",
+				"required": false,
+				"rate": 0
 			}
 		],
 		"favorite": []
@@ -207,7 +289,9 @@
 		"data": [
 			{
 				"code": "LA007001",
-				"name": "DELE"
+				"name": "DELE",
+				"required": false,
+				"rate": 0
 			}
 		],
 		"favorite": []
