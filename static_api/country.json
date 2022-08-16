@@ -1,0 +1,1661 @@
+[
+	{
+		"name_en": "Ghana",
+		"name": "가나",
+		"ISO_2": "GH",
+		"ISO_3": "GHA",
+		"ISO": 288
+	},
+	{
+		"name_en": "Gabon",
+		"name": "가봉",
+		"ISO_2": "GA",
+		"ISO_3": "GAB",
+		"ISO": 266
+	},
+	{
+		"name_en": "Guyana",
+		"name": "가이아나",
+		"ISO_2": "GY",
+		"ISO_3": "GUY",
+		"ISO": 328
+	},
+	{
+		"name_en": "Gambia",
+		"name": "감비아",
+		"ISO_2": "GM",
+		"ISO_3": "GMB",
+		"ISO": 270
+	},
+	{
+		"name_en": "Bailiwick of Guernsey",
+		"name": "건지",
+		"ISO_2": "GG",
+		"ISO_3": "GGY",
+		"ISO": 831
+	},
+	{
+		"name_en": "Guadeloupe",
+		"name": "과들루프",
+		"ISO_2": "GP",
+		"ISO_3": "GLP",
+		"ISO": 312
+	},
+	{
+		"name_en": "Guatemala",
+		"name": "과테말라",
+		"ISO_2": "GT",
+		"ISO_3": "GTM",
+		"ISO": 320
+	},
+	{
+		"name_en": "Guam",
+		"name": "괌",
+		"ISO_2": "GU",
+		"ISO_3": "GUM",
+		"ISO": 316
+	},
+	{
+		"name_en": "Grenada",
+		"name": "그레나다",
+		"ISO_2": "GD",
+		"ISO_3": "GRD",
+		"ISO": 308
+	},
+	{
+		"name_en": "Greece",
+		"name": "그리스",
+		"ISO_2": "GR",
+		"ISO_3": "GRC",
+		"ISO": 300
+	},
+	{
+		"name_en": "Greenland",
+		"name": "그린란드",
+		"ISO_2": "GL",
+		"ISO_3": "GRL",
+		"ISO": 304
+	},
+	{
+		"name_en": "Guinea",
+		"name": "기니",
+		"ISO_2": "GN",
+		"ISO_3": "GIN",
+		"ISO": 324
+	},
+	{
+		"name_en": "Guinea-Bissau",
+		"name": "기니비사우",
+		"ISO_2": "GW",
+		"ISO_3": "GNB",
+		"ISO": 624
+	},
+	{
+		"name_en": "Namibia",
+		"name": "나미비아",
+		"ISO_2": "NA",
+		"ISO_3": "NAM",
+		"ISO": 516
+	},
+	{
+		"name_en": "Nauru",
+		"name": "나우루",
+		"ISO_2": "NR",
+		"ISO_3": "NRU",
+		"ISO": 520
+	},
+	{
+		"name_en": "Nigeria",
+		"name": "나이지리아",
+		"ISO_2": "NG",
+		"ISO_3": "NGA",
+		"ISO": 566
+	},
+	{
+		"name_en": "South Sudan",
+		"name": "남수단",
+		"ISO_2": "SS",
+		"ISO_3": "SSD",
+		"ISO": 728
+	},
+	{
+		"name_en": "South Africa",
+		"name": "남아프리카공화국",
+		"ISO_2": "ZA",
+		"ISO_3": "ZAF",
+		"ISO": 710
+	},
+	{
+		"name_en": "Netherlands",
+		"name": "네덜란드",
+		"ISO_2": "NL",
+		"ISO_3": "NLD",
+		"ISO": 528
+	},
+	{
+		"name_en": "Netherlands Antilles",
+		"name": "네덜란드령 안틸레스",
+		"ISO_2": "AN",
+		"ISO_3": "ANT",
+		"ISO": 530
+	},
+	{
+		"name_en": "Nepal",
+		"name": "네팔",
+		"ISO_2": "NP",
+		"ISO_3": "NPL",
+		"ISO": 524
+	},
+	{
+		"name_en": "Norway",
+		"name": "노르웨이",
+		"ISO_2": "NO",
+		"ISO_3": "NOR",
+		"ISO": 578
+	},
+	{
+		"name_en": "New Caledonia",
+		"name": "뉴 칼레도니아",
+		"ISO_2": "NC",
+		"ISO_3": "NCL",
+		"ISO": 540
+	},
+	{
+		"name_en": "New Zealand",
+		"name": "뉴질랜드",
+		"ISO_2": "NZ",
+		"ISO_3": "NZL",
+		"ISO": 554
+	},
+	{
+		"name_en": "Niue",
+		"name": "니우에",
+		"ISO_2": "NU",
+		"ISO_3": "NIU",
+		"ISO": 570
+	},
+	{
+		"name_en": "Niger",
+		"name": "니제르",
+		"ISO_2": "NE",
+		"ISO_3": "NER",
+		"ISO": 562
+	},
+	{
+		"name_en": "Nicaragua",
+		"name": "니카라과",
+		"ISO_2": "NI",
+		"ISO_3": "NIC",
+		"ISO": 558
+	},
+	{
+		"name_en": "Denmark",
+		"name": "덴마크",
+		"ISO_2": "DK",
+		"ISO_3": "DNK",
+		"ISO": 208
+	},
+	{
+		"name_en": "Dominican Republic",
+		"name": "도미니카공화국",
+		"ISO_2": "DO",
+		"ISO_3": "DOM",
+		"ISO": 214
+	},
+	{
+		"name_en": "Dominica",
+		"name": "도미니카연방",
+		"ISO_2": "DM",
+		"ISO_3": "DMA",
+		"ISO": 212
+	},
+	{
+		"name_en": "Germany",
+		"name": "독일",
+		"ISO_2": "DE",
+		"ISO_3": "DEU",
+		"ISO": 276
+	},
+	{
+		"name_en": "Timor-Leste",
+		"name": "동티모르",
+		"ISO_2": "TL",
+		"ISO_3": "TLS",
+		"ISO": 626
+	},
+	{
+		"name_en": "Laos",
+		"name": "라오스",
+		"ISO_2": "LA",
+		"ISO_3": "LAO",
+		"ISO": 418
+	},
+	{
+		"name_en": "Liberia",
+		"name": "라이베리아",
+		"ISO_2": "LR",
+		"ISO_3": "LBR",
+		"ISO": 430
+	},
+	{
+		"name_en": "Latvia",
+		"name": "라트비아",
+		"ISO_2": "LV",
+		"ISO_3": "LVA",
+		"ISO": 428
+	},
+	{
+		"name_en": "Russia",
+		"name": "러시아",
+		"ISO_2": "RU",
+		"ISO_3": "RUS",
+		"ISO": 643
+	},
+	{
+		"name_en": "Lebanon",
+		"name": "레바논",
+		"ISO_2": "LB",
+		"ISO_3": "LBN",
+		"ISO": 422
+	},
+	{
+		"name_en": "Lesotho",
+		"name": "레소토",
+		"ISO_2": "LS",
+		"ISO_3": "LSO",
+		"ISO": 426
+	},
+	{
+		"name_en": "R.union",
+		"name": "레위니옹",
+		"ISO_2": "RE",
+		"ISO_3": "REU",
+		"ISO": 638
+	},
+	{
+		"name_en": "Romania",
+		"name": "루마니아",
+		"ISO_2": "RO",
+		"ISO_3": "ROU",
+		"ISO": 642
+	},
+	{
+		"name_en": "Luxembourg",
+		"name": "룩셈부르크",
+		"ISO_2": "LU",
+		"ISO_3": "LUX",
+		"ISO": 442
+	},
+	{
+		"name_en": "Rwanda",
+		"name": "르완다",
+		"ISO_2": "RW",
+		"ISO_3": "RWA",
+		"ISO": 646
+	},
+	{
+		"name_en": "Libya",
+		"name": "리비아",
+		"ISO_2": "LY",
+		"ISO_3": "LBY",
+		"ISO": 434
+	},
+	{
+		"name_en": "Lithuania",
+		"name": "리투아니아",
+		"ISO_2": "LT",
+		"ISO_3": "LTU",
+		"ISO": 440
+	},
+	{
+		"name_en": "Liechtenstein",
+		"name": "리히텐슈타인",
+		"ISO_2": "LI",
+		"ISO_3": "LIE",
+		"ISO": 438
+	},
+	{
+		"name_en": "Madagascar",
+		"name": "마다가스카르",
+		"ISO_2": "MG",
+		"ISO_3": "MDG",
+		"ISO": 450
+	},
+	{
+		"name_en": "Martinique",
+		"name": "마르티니크",
+		"ISO_2": "MQ",
+		"ISO_3": "MTQ",
+		"ISO": 474
+	},
+	{
+		"name_en": "Marshall Islands",
+		"name": "마셜제도",
+		"ISO_2": "MH",
+		"ISO_3": "MHL",
+		"ISO": 584
+	},
+	{
+		"name_en": "Mayotte",
+		"name": "마요트",
+		"ISO_2": "YT",
+		"ISO_3": "MYT",
+		"ISO": 175
+	},
+	{
+		"name_en": "Federated States of Micronesia",
+		"name": "마이크로네시아연방",
+		"ISO_2": "FM",
+		"ISO_3": "FSM",
+		"ISO": 583
+	},
+	{
+		"name_en": "Malawi",
+		"name": "말라위",
+		"ISO_2": "MW",
+		"ISO_3": "MWI",
+		"ISO": 454
+	},
+	{
+		"name_en": "Malaysia",
+		"name": "말레이시아",
+		"ISO_2": "MY",
+		"ISO_3": "MYS",
+		"ISO": 458
+	},
+	{
+		"name_en": "Mali",
+		"name": "말리",
+		"ISO_2": "ML",
+		"ISO_3": "MLI",
+		"ISO": 466
+	},
+	{
+		"name_en": "Isle of Man",
+		"name": "맨 섬",
+		"ISO_2": "IM",
+		"ISO_3": "IMN",
+		"ISO": 833
+	},
+	{
+		"name_en": "Mexico",
+		"name": "멕시코",
+		"ISO_2": "MX",
+		"ISO_3": "MEX",
+		"ISO": 484
+	},
+	{
+		"name_en": "Monaco",
+		"name": "모나코",
+		"ISO_2": "MC",
+		"ISO_3": "MCO",
+		"ISO": 492
+	},
+	{
+		"name_en": "Morocco",
+		"name": "모로코",
+		"ISO_2": "MA",
+		"ISO_3": "MAR",
+		"ISO": 504
+	},
+	{
+		"name_en": "Mauritius",
+		"name": "모리셔스",
+		"ISO_2": "MU",
+		"ISO_3": "MUS",
+		"ISO": 480
+	},
+	{
+		"name_en": "Mauritania",
+		"name": "모리타니아",
+		"ISO_2": "MR",
+		"ISO_3": "MRT",
+		"ISO": 478
+	},
+	{
+		"name_en": "Mazambique",
+		"name": "모잠비크",
+		"ISO_2": "MZ",
+		"ISO_3": "MOZ",
+		"ISO": 508
+	},
+	{
+		"name_en": "Montenegro",
+		"name": "몬테네그로",
+		"ISO_2": "ME",
+		"ISO_3": "MNE",
+		"ISO": 499
+	},
+	{
+		"name_en": "Montserrat",
+		"name": "몬트세랫",
+		"ISO_2": "MS",
+		"ISO_3": "MSR",
+		"ISO": 500
+	},
+	{
+		"name_en": "Moldova",
+		"name": "몰도바",
+		"ISO_2": "MD",
+		"ISO_3": "MDA",
+		"ISO": 498
+	},
+	{
+		"name_en": "Maldives",
+		"name": "몰디브",
+		"ISO_2": "MV",
+		"ISO_3": "MDV",
+		"ISO": 462
+	},
+	{
+		"name_en": "Malta",
+		"name": "몰타",
+		"ISO_2": "MT",
+		"ISO_3": "MLT",
+		"ISO": 470
+	},
+	{
+		"name_en": "Mongolia",
+		"name": "몽골",
+		"ISO_2": "MN",
+		"ISO_3": "MNG",
+		"ISO": 496
+	},
+	{
+		"name_en": "United States of America",
+		"name": "미국",
+		"ISO_2": "US",
+		"ISO_3": "USA",
+		"ISO": 840
+	},
+	{
+		"name_en": "Myanmar",
+		"name": "미얀마",
+		"ISO_2": "MM",
+		"ISO_3": "MMR",
+		"ISO": 104
+	},
+	{
+		"name_en": "Vanuatu",
+		"name": "바누아투",
+		"ISO_2": "VU",
+		"ISO_3": "VUT",
+		"ISO": 548
+	},
+	{
+		"name_en": "Bahrain",
+		"name": "바레인",
+		"ISO_2": "BH",
+		"ISO_3": "BHR",
+		"ISO": 48
+	},
+	{
+		"name_en": "Barbados",
+		"name": "바베이도스",
+		"ISO_2": "BB",
+		"ISO_3": "BRB",
+		"ISO": 52
+	},
+	{
+		"name_en": "Vatican",
+		"name": "교황청",
+		"ISO_2": "VA",
+		"ISO_3": "VAT",
+		"ISO": 336
+	},
+	{
+		"name_en": "Bahamas",
+		"name": "바하마",
+		"ISO_2": "BS",
+		"ISO_3": "BHS",
+		"ISO": 44
+	},
+	{
+		"name_en": "Bangladesh",
+		"name": "방글라데시",
+		"ISO_2": "BD",
+		"ISO_3": "BGD",
+		"ISO": 50
+	},
+	{
+		"name_en": "Bermuda",
+		"name": "버뮤다",
+		"ISO_2": "BM",
+		"ISO_3": "BMU",
+		"ISO": 60
+	},
+	{
+		"name_en": "Benin",
+		"name": "베냉",
+		"ISO_2": "BJ",
+		"ISO_3": "BEN",
+		"ISO": 204
+	},
+	{
+		"name_en": "Venezuela",
+		"name": "베네수엘라",
+		"ISO_2": "VE",
+		"ISO_3": "VEN",
+		"ISO": 862
+	},
+	{
+		"name_en": "Vietnam",
+		"name": "베트남",
+		"ISO_2": "VN",
+		"ISO_3": "VNM",
+		"ISO": 704
+	},
+	{
+		"name_en": "Belgium",
+		"name": "벨기에",
+		"ISO_2": "BE",
+		"ISO_3": "BEL",
+		"ISO": 56
+	},
+	{
+		"name_en": "Belarus",
+		"name": "벨라루스",
+		"ISO_2": "BY",
+		"ISO_3": "BLR",
+		"ISO": 112
+	},
+	{
+		"name_en": "Belize",
+		"name": "벨리즈",
+		"ISO_2": "BZ",
+		"ISO_3": "BLZ",
+		"ISO": 84
+	},
+	{
+		"name_en": "Bosnia-Herzegovina",
+		"name": "보스니아헤르체고비나",
+		"ISO_2": "BA",
+		"ISO_3": "BIH",
+		"ISO": 70
+	},
+	{
+		"name_en": "Botswana",
+		"name": "보츠와나",
+		"ISO_2": "BW",
+		"ISO_3": "BWA",
+		"ISO": 72
+	},
+	{
+		"name_en": "Bolivia",
+		"name": "볼리비아",
+		"ISO_2": "BO",
+		"ISO_3": "BOL",
+		"ISO": 68
+	},
+	{
+		"name_en": "Burundi",
+		"name": "부룬디",
+		"ISO_2": "BI",
+		"ISO_3": "BDI",
+		"ISO": 108
+	},
+	{
+		"name_en": "Burkina Faso",
+		"name": "부르키나파소",
+		"ISO_2": "BF",
+		"ISO_3": "BFA",
+		"ISO": 854
+	},
+	{
+		"name_en": "Bhutan",
+		"name": "부탄",
+		"ISO_2": "BT",
+		"ISO_3": "BTN",
+		"ISO": 64
+	},
+	{
+		"name_en": "Northern Mariana Islands",
+		"name": "북마리아나 군도",
+		"ISO_2": "MP",
+		"ISO_3": "MNP",
+		"ISO": 580
+	},
+	{
+		"name_en": "North Macedonia",
+		"name": "북마케도니아",
+		"ISO_2": "MK",
+		"ISO_3": "MKD",
+		"ISO": 807
+	},
+	{
+		"name_en": "Bulgaria",
+		"name": "불가리아",
+		"ISO_2": "BG",
+		"ISO_3": "BGR",
+		"ISO": 100
+	},
+	{
+		"name_en": "Brazil",
+		"name": "브라질",
+		"ISO_2": "BR",
+		"ISO_3": "BRA",
+		"ISO": 76
+	},
+	{
+		"name_en": "Brunei",
+		"name": "브루나이",
+		"ISO_2": "BN",
+		"ISO_3": "BRN",
+		"ISO": 96
+	},
+	{
+		"name_en": "Samoa",
+		"name": "사모아",
+		"ISO_2": "WS",
+		"ISO_3": "WSM",
+		"ISO": 882
+	},
+	{
+		"name_en": "Saudi Arabia",
+		"name": "사우디아라비아",
+		"ISO_2": "SA",
+		"ISO_3": "SAU",
+		"ISO": 682
+	},
+	{
+		"name_en": "Cyprus",
+		"name": "사이프러스",
+		"ISO_2": "CY",
+		"ISO_3": "CYP",
+		"ISO": 196
+	},
+	{
+		"name_en": "Sahara Arab Democratic Republic",
+		"name": "사하라 아랍민주공화국(서부사하라)",
+		"ISO_2": "EH",
+		"ISO_3": "ESH",
+		"ISO": 732
+	},
+	{
+		"name_en": "San Marino",
+		"name": "산마리노",
+		"ISO_2": "SM",
+		"ISO_3": "SMR",
+		"ISO": 674
+	},
+	{
+		"name_en": "S.o Tom. & Principe",
+		"name": "상투메프린시페",
+		"ISO_2": "ST",
+		"ISO_3": "STP",
+		"ISO": 678
+	},
+	{
+		"name_en": "St. Pierre and Miquelon",
+		"name": "생피에르·미클롱",
+		"ISO_2": "PM",
+		"ISO_3": "SPM",
+		"ISO": 666
+	},
+	{
+		"name_en": "Senegal",
+		"name": "세네갈",
+		"ISO_2": "SN",
+		"ISO_3": "SEN",
+		"ISO": 686
+	},
+	{
+		"name_en": "Serbia",
+		"name": "세르비아",
+		"ISO_2": "RS",
+		"ISO_3": "SRB",
+		"ISO": 688
+	},
+	{
+		"name_en": "Seychelles",
+		"name": "세이셸",
+		"ISO_2": "SC",
+		"ISO_3": "SYC",
+		"ISO": 690
+	},
+	{
+		"name_en": "St. Lucia",
+		"name": "세인트 루시아",
+		"ISO_2": "LC",
+		"ISO_3": "LCA",
+		"ISO": 662
+	},
+	{
+		"name_en": "St. Vincent & the Grenadines",
+		"name": "세인트 빈센트 그레나딘",
+		"ISO_2": "VC",
+		"ISO_3": "VCT",
+		"ISO": 670
+	},
+	{
+		"name_en": "St. Kitts-Nevis",
+		"name": "세인트 키츠 네비스",
+		"ISO_2": "KN",
+		"ISO_3": "KNA",
+		"ISO": 659
+	},
+	{
+		"name_en": "St Helena",
+		"name": "세인트 헬레나 섬",
+		"ISO_2": "SH",
+		"ISO_3": "SHN",
+		"ISO": 654
+	},
+	{
+		"name_en": "Somalia",
+		"name": "소말리아",
+		"ISO_2": "SO",
+		"ISO_3": "SOM",
+		"ISO": 706
+	},
+	{
+		"name_en": "Solomon Islands",
+		"name": "솔로몬제도",
+		"ISO_2": "SB",
+		"ISO_3": "SLB",
+		"ISO": 90
+	},
+	{
+		"name_en": "Sudan",
+		"name": "수단",
+		"ISO_2": "SD",
+		"ISO_3": "SDN",
+		"ISO": 736
+	},
+	{
+		"name_en": "Suriname",
+		"name": "수리남",
+		"ISO_2": "SR",
+		"ISO_3": "SUR",
+		"ISO": 740
+	},
+	{
+		"name_en": "Sri Lanka",
+		"name": "스리랑카",
+		"ISO_2": "LK",
+		"ISO_3": "LKA",
+		"ISO": 144
+	},
+	{
+		"name_en": "Sweden",
+		"name": "스웨덴",
+		"ISO_2": "SE",
+		"ISO_3": "SWE",
+		"ISO": 752
+	},
+	{
+		"name_en": "Swiss",
+		"name": "스위스",
+		"ISO_2": "CH",
+		"ISO_3": "CHE",
+		"ISO": 756
+	},
+	{
+		"name_en": "Spain",
+		"name": "스페인",
+		"ISO_2": "ES",
+		"ISO_3": "ESP",
+		"ISO": 724
+	},
+	{
+		"name_en": "Slovakia",
+		"name": "슬로바키아",
+		"ISO_2": "SK",
+		"ISO_3": "SVK",
+		"ISO": 703
+	},
+	{
+		"name_en": "Slovenia",
+		"name": "슬로베니아",
+		"ISO_2": "SI",
+		"ISO_3": "SVN",
+		"ISO": 705
+	},
+	{
+		"name_en": "Syria",
+		"name": "시리아",
+		"ISO_2": "SY",
+		"ISO_3": "SYR",
+		"ISO": 760
+	},
+	{
+		"name_en": "Sierra Leone",
+		"name": "시에라리온",
+		"ISO_2": "SL",
+		"ISO_3": "SLE",
+		"ISO": 694
+	},
+	{
+		"name_en": "Singapore",
+		"name": "싱가포르",
+		"ISO_2": "SG",
+		"ISO_3": "SGP",
+		"ISO": 702
+	},
+	{
+		"name_en": "United Arab Emirates : UAE",
+		"name": "아랍에미리트",
+		"ISO_2": "AE",
+		"ISO_3": "ARE",
+		"ISO": 784
+	},
+	{
+		"name_en": "Aruba",
+		"name": "아루바",
+		"ISO_2": "AW",
+		"ISO_3": "ABW",
+		"ISO": 533
+	},
+	{
+		"name_en": "Armenia",
+		"name": "아르메니아",
+		"ISO_2": "AM",
+		"ISO_3": "ARM",
+		"ISO": 51
+	},
+	{
+		"name_en": "Argentina",
+		"name": "아르헨티나",
+		"ISO_2": "AR",
+		"ISO_3": "ARG",
+		"ISO": 32
+	},
+	{
+		"name_en": "Iceland",
+		"name": "아이슬란드",
+		"ISO_2": "IS",
+		"ISO_3": "ISL",
+		"ISO": 352
+	},
+	{
+		"name_en": "Haiti",
+		"name": "아이티",
+		"ISO_2": "HT",
+		"ISO_3": "HTI",
+		"ISO": 332
+	},
+	{
+		"name_en": "Ireland",
+		"name": "아일랜드",
+		"ISO_2": "IE",
+		"ISO_3": "IRL",
+		"ISO": 372
+	},
+	{
+		"name_en": "Azerbaijan",
+		"name": "아제르바이잔",
+		"ISO_2": "AZ",
+		"ISO_3": "AZE",
+		"ISO": 31
+	},
+	{
+		"name_en": "Afghanistan",
+		"name": "아프가니스탄",
+		"ISO_2": "AF",
+		"ISO_3": "AFG",
+		"ISO": 4
+	},
+	{
+		"name_en": "Andorra",
+		"name": "안도라",
+		"ISO_2": "AD",
+		"ISO_3": "AND",
+		"ISO": 20
+	},
+	{
+		"name_en": "Albania",
+		"name": "알바니아",
+		"ISO_2": "AL",
+		"ISO_3": "ALB",
+		"ISO": 8
+	},
+	{
+		"name_en": "Algeria",
+		"name": "알제리",
+		"ISO_2": "DZ",
+		"ISO_3": "DZA",
+		"ISO": 12
+	},
+	{
+		"name_en": "Angola",
+		"name": "앙골라",
+		"ISO_2": "AO",
+		"ISO_3": "AGO",
+		"ISO": 24
+	},
+	{
+		"name_en": "Antigua and Barbuda",
+		"name": "앤티가바부다",
+		"ISO_2": "AG",
+		"ISO_3": "ATG",
+		"ISO": 28
+	},
+	{
+		"name_en": "Anguilla",
+		"name": "앵귈라",
+		"ISO_2": "AI",
+		"ISO_3": "AIA",
+		"ISO": 660
+	},
+	{
+		"name_en": "Eritrea",
+		"name": "에리트레아",
+		"ISO_2": "ER",
+		"ISO_3": "ERI",
+		"ISO": 232
+	},
+	{
+		"name_en": "Eswatini",
+		"name": "에스와티니",
+		"ISO_2": "SZ",
+		"ISO_3": "SWZ",
+		"ISO": 748
+	},
+	{
+		"name_en": "Estonia",
+		"name": "에스토니아",
+		"ISO_2": "EE",
+		"ISO_3": "EST",
+		"ISO": 233
+	},
+	{
+		"name_en": "Ecuador",
+		"name": "에콰도르",
+		"ISO_2": "EC",
+		"ISO_3": "ECU",
+		"ISO": 218
+	},
+	{
+		"name_en": "Ethiopia",
+		"name": "에티오피아",
+		"ISO_2": "ET",
+		"ISO_3": "ETH",
+		"ISO": 231
+	},
+	{
+		"name_en": "El Salvador",
+		"name": "엘살바도르",
+		"ISO_2": "SV",
+		"ISO_3": "SLV",
+		"ISO": 222
+	},
+	{
+		"name_en": "United Kingdom",
+		"name": "영국",
+		"ISO_2": "GB",
+		"ISO_3": "GBR",
+		"ISO": 826
+	},
+	{
+		"name_en": "British Antarctic Territory",
+		"name": "영국령 남극지역",
+		"ISO_2": "AQ",
+		"ISO_3": "ATA",
+		"ISO": 10
+	},
+	{
+		"name_en": "British Virgin Islands",
+		"name": "영국령 버진 아일랜드",
+		"ISO_2": "VG",
+		"ISO_3": "VGB",
+		"ISO": 92
+	},
+	{
+		"name_en": "British Indian Ocean Territory",
+		"name": "영국령 인도양 제도",
+		"ISO_2": "IO",
+		"ISO_3": "IOT",
+		"ISO": 86
+	},
+	{
+		"name_en": "Yemen",
+		"name": "예멘",
+		"ISO_2": "YE",
+		"ISO_3": "YEM",
+		"ISO": 887
+	},
+	{
+		"name_en": "Oman",
+		"name": "오만",
+		"ISO_2": "OM",
+		"ISO_3": "OMN",
+		"ISO": 512
+	},
+	{
+		"name_en": "Austria",
+		"name": "오스트리아",
+		"ISO_2": "AT",
+		"ISO_3": "AUT",
+		"ISO": 40
+	},
+	{
+		"name_en": "Honduras",
+		"name": "온두라스",
+		"ISO_2": "HN",
+		"ISO_3": "HND",
+		"ISO": 340
+	},
+	{
+		"name_en": "Wallis and Futuna",
+		"name": "왈리스·퓌튀나",
+		"ISO_2": "WF",
+		"ISO_3": "WLF",
+		"ISO": 876
+	},
+	{
+		"name_en": "Jordan",
+		"name": "요르단",
+		"ISO_2": "JO",
+		"ISO_3": "JOR",
+		"ISO": 400
+	},
+	{
+		"name_en": "Uganda",
+		"name": "우간다",
+		"ISO_2": "UG",
+		"ISO_3": "UGA",
+		"ISO": 800
+	},
+	{
+		"name_en": "Uruguay",
+		"name": "우루과이",
+		"ISO_2": "UY",
+		"ISO_3": "URY",
+		"ISO": 858
+	},
+	{
+		"name_en": "Uzbekistan",
+		"name": "우즈베키스탄",
+		"ISO_2": "UZ",
+		"ISO_3": "UZB",
+		"ISO": 860
+	},
+	{
+		"name_en": "Ukraine",
+		"name": "우크라이나",
+		"ISO_2": "UA",
+		"ISO_3": "UKR",
+		"ISO": 804
+	},
+	{
+		"name_en": "Iraq",
+		"name": "이라크",
+		"ISO_2": "IQ",
+		"ISO_3": "IRQ",
+		"ISO": 368
+	},
+	{
+		"name_en": "Iran",
+		"name": "이란",
+		"ISO_2": "IR",
+		"ISO_3": "IRN",
+		"ISO": 364
+	},
+	{
+		"name_en": "Israel",
+		"name": "이스라엘",
+		"ISO_2": "IL",
+		"ISO_3": "ISR",
+		"ISO": 376
+	},
+	{
+		"name_en": "Egypt",
+		"name": "이집트",
+		"ISO_2": "EG",
+		"ISO_3": "EGY",
+		"ISO": 818
+	},
+	{
+		"name_en": "Italia",
+		"name": "이탈리아",
+		"ISO_2": "IT",
+		"ISO_3": "ITA",
+		"ISO": 380
+	},
+	{
+		"name_en": "India",
+		"name": "인도",
+		"ISO_2": "IN",
+		"ISO_3": "IND",
+		"ISO": 356
+	},
+	{
+		"name_en": "Indonesia",
+		"name": "인도네시아",
+		"ISO_2": "ID",
+		"ISO_3": "IDN",
+		"ISO": 360
+	},
+	{
+		"name_en": "Japan",
+		"name": "일본",
+		"ISO_2": "JP",
+		"ISO_3": "JPN",
+		"ISO": 392
+	},
+	{
+		"name_en": "Jamaica",
+		"name": "자메이카",
+		"ISO_2": "JM",
+		"ISO_3": "JAM",
+		"ISO": 388
+	},
+	{
+		"name_en": "Zambia",
+		"name": "잠비아",
+		"ISO_2": "ZM",
+		"ISO_3": "ZMB",
+		"ISO": 894
+	},
+	{
+		"name_en": "Bailiwick of Jersey",
+		"name": "저지",
+		"ISO_2": "JE",
+		"ISO_3": "JEY",
+		"ISO": 832
+	},
+	{
+		"name_en": "Equatorial Guinea",
+		"name": "적도기니",
+		"ISO_2": "GQ",
+		"ISO_3": "GNQ",
+		"ISO": 226
+	},
+	{
+		"name_en": "Georgia",
+		"name": "조지아",
+		"ISO_2": "GE",
+		"ISO_3": "GEO",
+		"ISO": 268
+	},
+	{
+		"name_en": "China",
+		"name": "중국",
+		"ISO_2": "CN",
+		"ISO_3": "CHN",
+		"ISO": 156
+	},
+	{
+		"name_en": "Central African Republic",
+		"name": "중앙아프리카공화국",
+		"ISO_2": "CF",
+		"ISO_3": "CAF",
+		"ISO": 140
+	},
+	{
+		"name_en": "Djibouti",
+		"name": "지부티",
+		"ISO_2": "DJ",
+		"ISO_3": "DJI",
+		"ISO": 262
+	},
+	{
+		"name_en": "Gibraltar",
+		"name": "지브롤터",
+		"ISO_2": "GI",
+		"ISO_3": "GIB",
+		"ISO": 292
+	},
+	{
+		"name_en": "Zimbabwe",
+		"name": "짐바브웨",
+		"ISO_2": "ZW",
+		"ISO_3": "ZWE",
+		"ISO": 716
+	},
+	{
+		"name_en": "Chad",
+		"name": "차드",
+		"ISO_2": "TD",
+		"ISO_3": "TCD",
+		"ISO": 148
+	},
+	{
+		"name_en": "Czech",
+		"name": "체코",
+		"ISO_2": "CZ",
+		"ISO_3": "CZE",
+		"ISO": 203
+	},
+	{
+		"name_en": "Chile",
+		"name": "칠레",
+		"ISO_2": "CL",
+		"ISO_3": "CHL",
+		"ISO": 152
+	},
+	{
+		"name_en": "Cameroon",
+		"name": "카메룬",
+		"ISO_2": "CM",
+		"ISO_3": "CMR",
+		"ISO": 120
+	},
+	{
+		"name_en": "Cape Verde",
+		"name": "카보베르데",
+		"ISO_2": "CV",
+		"ISO_3": "CPV",
+		"ISO": 132
+	},
+	{
+		"name_en": "Kazakhstan",
+		"name": "카자흐스탄",
+		"ISO_2": "KZ",
+		"ISO_3": "KAZ",
+		"ISO": 398
+	},
+	{
+		"name_en": "Qatar",
+		"name": "카타르",
+		"ISO_2": "QA",
+		"ISO_3": "QAT",
+		"ISO": 634
+	},
+	{
+		"name_en": "Cambodia",
+		"name": "캄보디아",
+		"ISO_2": "KH",
+		"ISO_3": "KHM",
+		"ISO": 116
+	},
+	{
+		"name_en": "Canada",
+		"name": "캐나다",
+		"ISO_2": "CA",
+		"ISO_3": "CAN",
+		"ISO": 124
+	},
+	{
+		"name_en": "Kenya",
+		"name": "케냐",
+		"ISO_2": "KE",
+		"ISO_3": "KEN",
+		"ISO": 404
+	},
+	{
+		"name_en": "Cayman Islands",
+		"name": "케이맨제도",
+		"ISO_2": "KY",
+		"ISO_3": "CYM",
+		"ISO": 136
+	},
+	{
+		"name_en": "Macao",
+		"name": "마카오",
+		"ISO_2": "MO",
+		"ISO_3": "MAC",
+		"ISO": null
+	},
+	{
+		"name_en": "Comoros",
+		"name": "코모로",
+		"ISO_2": "KM",
+		"ISO_3": "COM",
+		"ISO": 174
+	},
+	{
+		"name_en": "Kosovo",
+		"name": "코소보",
+		"ISO_2": "XK",
+		"ISO_3": "XKX",
+		"ISO": 383
+	},
+	{
+		"name_en": "Costa Rica",
+		"name": "코스타리카",
+		"ISO_2": "CR",
+		"ISO_3": "CRI",
+		"ISO": 188
+	},
+	{
+		"name_en": "C.te D'Ivoire",
+		"name": "코트디부아르",
+		"ISO_2": "CI",
+		"ISO_3": "CIV",
+		"ISO": 384
+	},
+	{
+		"name_en": "Colombia",
+		"name": "콜롬비아",
+		"ISO_2": "CO",
+		"ISO_3": "COL",
+		"ISO": 170
+	},
+	{
+		"name_en": "Congo",
+		"name": "콩고공화국",
+		"ISO_2": "CG",
+		"ISO_3": "COG",
+		"ISO": 178
+	},
+	{
+		"name_en": "Democratic Republic of Congo",
+		"name": "콩고민주공화국(DR콩고)",
+		"ISO_2": "CD",
+		"ISO_3": "COD",
+		"ISO": 180
+	},
+	{
+		"name_en": "Cuba",
+		"name": "쿠바",
+		"ISO_2": "CU",
+		"ISO_3": "CUB",
+		"ISO": 192
+	},
+	{
+		"name_en": "Kuwait",
+		"name": "쿠웨이트",
+		"ISO_2": "KW",
+		"ISO_3": "KWT",
+		"ISO": 414
+	},
+	{
+		"name_en": "Cook Islands",
+		"name": "쿡제도",
+		"ISO_2": "CK",
+		"ISO_3": "COK",
+		"ISO": 184
+	},
+	{
+		"name_en": "Croatia",
+		"name": "크로아티아",
+		"ISO_2": "HR",
+		"ISO_3": "HRV",
+		"ISO": 191
+	},
+	{
+		"name_en": "Kyrgyz",
+		"name": "키르기즈",
+		"ISO_2": "KG",
+		"ISO_3": "KGZ",
+		"ISO": 417
+	},
+	{
+		"name_en": "Kiribati",
+		"name": "키리바시",
+		"ISO_2": "KI",
+		"ISO_3": "KIR",
+		"ISO": 296
+	},
+	{
+		"name_en": "Taiwan",
+		"name": "타이완",
+		"ISO_2": "TW",
+		"ISO_3": "TWN",
+		"ISO": 158
+	},
+	{
+		"name_en": "Tajikistan",
+		"name": "타지키스탄",
+		"ISO_2": "TJ",
+		"ISO_3": "TJK",
+		"ISO": 762
+	},
+	{
+		"name_en": "Tanzania",
+		"name": "탄자니아",
+		"ISO_2": "TZ",
+		"ISO_3": "TZA",
+		"ISO": 834
+	},
+	{
+		"name_en": "Thailand",
+		"name": "태국",
+		"ISO_2": "TH",
+		"ISO_3": "THA",
+		"ISO": 764
+	},
+	{
+		"name_en": "Turks and Caicos Islands",
+		"name": "터크스·케이커스 제도",
+		"ISO_2": "TC",
+		"ISO_3": "TCA",
+		"ISO": 796
+	},
+	{
+		"name_en": "Turkey",
+		"name": "터키",
+		"ISO_2": "TR",
+		"ISO_3": "TUR",
+		"ISO": 792
+	},
+	{
+		"name_en": "Togo",
+		"name": "토고",
+		"ISO_2": "TG",
+		"ISO_3": "TGO",
+		"ISO": 768
+	},
+	{
+		"name_en": "Tonga",
+		"name": "통가",
+		"ISO_2": "TO",
+		"ISO_3": "TON",
+		"ISO": 776
+	},
+	{
+		"name_en": "Turkmenistan",
+		"name": "투르크메니스탄",
+		"ISO_2": "TM",
+		"ISO_3": "TKM",
+		"ISO": 795
+	},
+	{
+		"name_en": "Tuvalu",
+		"name": "투발루",
+		"ISO_2": "TV",
+		"ISO_3": "TUV",
+		"ISO": 798
+	},
+	{
+		"name_en": "Tunisia",
+		"name": "튀니지",
+		"ISO_2": "TN",
+		"ISO_3": "TUN",
+		"ISO": 788
+	},
+	{
+		"name_en": "Trinidad & Tobago",
+		"name": "트리니다드토바고",
+		"ISO_2": "TT",
+		"ISO_3": "TTO",
+		"ISO": 780
+	},
+	{
+		"name_en": "Panama",
+		"name": "파나마",
+		"ISO_2": "PA",
+		"ISO_3": "PAN",
+		"ISO": 591
+	},
+	{
+		"name_en": "Paraguay",
+		"name": "파라과이",
+		"ISO_2": "PY",
+		"ISO_3": "PRY",
+		"ISO": 600
+	},
+	{
+		"name_en": "Pakistan",
+		"name": "파키스탄",
+		"ISO_2": "PK",
+		"ISO_3": "PAK",
+		"ISO": 586
+	},
+	{
+		"name_en": "Papua New Guinea :PNG",
+		"name": "파푸아뉴기니",
+		"ISO_2": "PG",
+		"ISO_3": "PNG",
+		"ISO": 598
+	},
+	{
+		"name_en": "Palau",
+		"name": "팔라우",
+		"ISO_2": "PW",
+		"ISO_3": "PLW",
+		"ISO": 585
+	},
+	{
+		"name_en": "Palestine",
+		"name": "팔레스타인",
+		"ISO_2": "PS",
+		"ISO_3": "PSE",
+		"ISO": 275
+	},
+	{
+		"name_en": "Peru",
+		"name": "페루",
+		"ISO_2": "PE",
+		"ISO_3": "PER",
+		"ISO": 604
+	},
+	{
+		"name_en": "Portugal",
+		"name": "포르투갈",
+		"ISO_2": "PT",
+		"ISO_3": "PRT",
+		"ISO": 620
+	},
+	{
+		"name_en": "Poland",
+		"name": "폴란드",
+		"ISO_2": "PL",
+		"ISO_3": "POL",
+		"ISO": 616
+	},
+	{
+		"name_en": "France",
+		"name": "프랑스",
+		"ISO_2": "FR",
+		"ISO_3": "FRA",
+		"ISO": 250
+	},
+	{
+		"name_en": "French Guiana",
+		"name": "프랑스령 기아나",
+		"ISO_2": "GF",
+		"ISO_3": "GUF",
+		"ISO": 254
+	},
+	{
+		"name_en": "French Polynesia",
+		"name": "프랑스령 폴리네시아",
+		"ISO_2": "PF",
+		"ISO_3": "PYF",
+		"ISO": 258
+	},
+	{
+		"name_en": "Fiji",
+		"name": "피지",
+		"ISO_2": "FJ",
+		"ISO_3": "FJI",
+		"ISO": 242
+	},
+	{
+		"name_en": "Finland",
+		"name": "핀란드",
+		"ISO_2": "FI",
+		"ISO_3": "FIN",
+		"ISO": 246
+	},
+	{
+		"name_en": "Philippines",
+		"name": "필리핀",
+		"ISO_2": "PH",
+		"ISO_3": "PHL",
+		"ISO": 608
+	},
+	{
+		"name_en": "Pitcairn Islands",
+		"name": "핏케언 섬",
+		"ISO_2": "PN",
+		"ISO_3": "PCN",
+		"ISO": 612
+	},
+	{
+		"name_en": "Hungary",
+		"name": "헝가리",
+		"ISO_2": "HU",
+		"ISO_3": "HUN",
+		"ISO": 348
+	},
+	{
+		"name_en": "Australia",
+		"name": "호주",
+		"ISO_2": "AU",
+		"ISO_3": "AUS",
+		"ISO": 36
+	},
+	{
+		"name_en": "Korea",
+		"name": "대한민국",
+		"ISO_2": "KR",
+		"ISO_3": "KOR",
+		"ISO": 410
+	},
+	{
+		"name_en": "Puerto Rico",
+		"name": "푸에르토리코",
+		"ISO_2": "PR",
+		"ISO_3": "PRI",
+		"ISO": 630
+	},
+	{
+		"name_en": "",
+		"name": "유럽연합",
+		"ISO_2": "EU",
+		"ISO_3": "",
+		"ISO": null
+	},
+	{
+		"name_en": "",
+		"name": "아세안",
+		"ISO_2": "XA",
+		"ISO_3": "",
+		"ISO": null
+	},
+	{
+		"name_en": "",
+		"name": "유네스코",
+		"ISO_2": "XB",
+		"ISO_3": "",
+		"ISO": null
+	},
+	{
+		"name_en": "",
+		"name": "국제연합",
+		"ISO_2": "UN",
+		"ISO_3": "",
+		"ISO": null
+	},
+	{
+		"name_en": "",
+		"name": "이슬람 국가",
+		"ISO_2": "XC",
+		"ISO_3": "",
+		"ISO": null
+	},
+	{
+		"name_en": "",
+		"name": "경제협력개발기구",
+		"ISO_2": "XD",
+		"ISO_3": "",
+		"ISO": null
+	},
+	{
+		"name_en": "Hongkong",
+		"name": "홍콩",
+		"ISO_2": "HK",
+		"ISO_3": "HKG",
+		"ISO": 344
+	},
+	{
+		"name_en": "",
+		"name": "전체 국가",
+		"ISO_2": "99",
+		"ISO_3": "",
+		"ISO": null
+	}
+]
