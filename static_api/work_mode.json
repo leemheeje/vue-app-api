@@ -1,0 +1,82 @@
+[
+	{
+		"value": 1,
+		"name": "정규직",
+		"add_form": {
+			"work_lange": 0
+		}
+	},
+	{
+		"value": 2,
+		"name": "계약직",
+		"add_form": {
+			"work_lange": 0,
+			"worktype_convert": false,
+			"worktype_during": false,
+			"worktype_eternal": false
+		}
+	},
+	{
+		"value": 3,
+		"name": "인턴",
+		"add_form": {
+			"work_lange": 0,
+			"worktype_convert": false
+		}
+	},
+	{
+		"value": 4,
+		"name": "파견직",
+		"add_form": {
+			"work_lange": 0,
+			"worktype_convert": false
+		}
+	},
+	{
+		"value": 5,
+		"name": "프리랜서",
+		"add_form": {
+			"work_lange": 0,
+			"worktype_convert": false
+		}
+	},
+	{
+		"value": 6,
+		"name": "파트타임"
+	},
+	{
+		"value": 7,
+		"name": "위촉직"
+	},
+	{
+		"value": 8,
+		"name": "아르바이트",
+		"add_form": {
+			"work_lange": 0
+		}
+	},
+	{
+		"value": 9,
+		"name": "병역특례"
+	},
+	{
+		"value": 10,
+		"name": "전임"
+	},
+	{
+		"value": 11,
+		"name": "교육생"
+	},
+	{
+		"value": 12,
+		"name": "해외취업"
+	},
+	{
+		"value": 13,
+		"name": "대체인력",
+		"add_form": {
+			"work_lange": 0,
+			"worktype_convert": false
+		}
+	}
+]
